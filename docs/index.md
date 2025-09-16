@@ -15,6 +15,8 @@
 - The item bank is a collection of item information, after harmonization.
 - The harmonization is done at the Center for Psychometric Analyses 
 in Aging and Neurodegeneration ([CPAAN](https://sites.uw.edu/uwcpaan/)), University of Washington.
+- Item bank version: 250707
+- TIC, IIC data version: 250908
 
 <br/><br/>
 
