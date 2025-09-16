@@ -6,7 +6,7 @@ title: UW-CPAAN
 
 ### Several GUIs are under development, including:
 
-- [Joey's site](https://uw.edu)
+- [Joey's site](https://cognitiveitembank.shinyapps.io/itembankshiny/)
 - [Item bank search](https://22ha6j-seo0eun-choi.shinyapps.io/itembank_V15/)
 - [TIC](https://22ha6j-seo0eun-choi.shinyapps.io/TICselectSCv3/)
 - [IIC using ggplot](https://22ha6j-seo0eun-choi.shinyapps.io/PickyIICbySCv4/)
