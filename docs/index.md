@@ -1,15 +1,17 @@
-# Markdown 101
+# CPAAN: item bank and beyond!
 
-## This is a subheading
+## Center for Psychometric Analyses in Aging and Neurodegeneration (CPAAN)
 
-This is some text.
+### several GUIs under development
 
-- Make a list
-- Like this
-- YAAAAYYYYYYYYYYY
+- [Joey's site](https://uw.edu)
+- [Item bank search](https://22ha6j-seo0eun-choi.shinyapps.io/itembank_V15/)
+- [TIC](https://22ha6j-seo0eun-choi.shinyapps.io/TICselectSCv3/)
+- [IIC using ggplot](https://22ha6j-seo0eun-choi.shinyapps.io/PickyIICbySCv4/)
+- [IIC using plotly](https://22ha6j-seo0eun-choi.shinyapps.io/IICplotlySCv2/)
 
-### sub sub heading
+### Something else may come here
 
-And more text.
+- [CPAAN](https://sites.uw.edu/uwcpaan/)
 
-Hey do you want a [LINK](www.hackertype.com)
+Any question or suggestion? Please contact Seo-Eun Choi (sc214782 at uw.edu) 
