@@ -1,6 +1,6 @@
-    ---
-    title: item bank from CPAAN
-    ---
+---
+title: "item bank from CPAAN"
+---
     
 # CPAAN: item bank and beyond!
 
