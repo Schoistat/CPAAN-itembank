@@ -1,10 +1,6 @@
 ---
 title: "item bank from CPAAN"
 ---
-    
-# CPAAN: item bank and beyond!
-
-## 
 
 ### Several GUIs are under development, including:
 
